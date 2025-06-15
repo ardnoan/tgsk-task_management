@@ -211,4 +211,4 @@ ALTER TABLE user_logs ADD COLUMN activity_description VARCHAR(100);
 1. Import database SQL
 2. Update config.php dengan credentials database
 3. Pastikan PHP sessions enabled
-4. Deploy ke web server dengan PHP support
+4. Deploy ke web server dengan PHP support"# tgsk-task_management" 
